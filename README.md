@@ -105,14 +105,3 @@ The system is designed to handle **handwritten and printed English text inputs**
 - [Google Maps API](https://developers.google.com/maps/documentation)  
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)  
 
----
-
-## License
-
-Specify your preferred license here (e.g., MIT, Apache 2.0).
-
----
-
-## Contact
-
-For questions or collaboration, reach out at: your.email@example.com
